@@ -1383,7 +1383,7 @@ export default function NeuralBrain(){
       </div>
 
       <div style={{marginTop:13,color:"rgba(255,255,255,.07)",fontSize:11,letterSpacing:3,fontFamily:"'DM Mono',monospace"}}>
-        drag to rotate
+        @ 2026 Annemi Li
       </div>
     </div>
   );
