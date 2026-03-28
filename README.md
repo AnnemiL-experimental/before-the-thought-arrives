@@ -4,7 +4,7 @@
 
 An interactive 3D brain visualization that maps real-time EEG frequency bands and emotional states onto anatomically positioned brain region volumes. Each state drives cfos-style fluorescent puncta, synchronized waveform rendering, and procedurally assembled stream-of-consciousness text.
 
-**[→ Live](https://before-the-thought-arrives.vercel.app/)**
+**[→ Live](https://before-the-thought-arrives.annemi.studio/)**
 
 ---
 
